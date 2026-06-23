@@ -1,0 +1,12 @@
+{
+  "name": "LOVE LIVE UNISEX — Premium Salon Jaipur",
+  "short_name": "LOVE LIVE",
+  "description": "Premium unisex salon in Mahesh Nagar, Jaipur. Hair, beauty, grooming & bridal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
